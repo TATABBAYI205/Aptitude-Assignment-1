@@ -1,0 +1,7 @@
+For three points to be collinear, they must lie on the same straight line.
+
+Given the points (1,1) and (2,2), it can be seen that the line passing through these points is y = x, as for each point, the y-coordinate is equal to the x-coordinate.
+
+Therefore, for any point (x, y) to be collinear with these two points, it must also satisfy this equation. So, any point of the form (n, n) where n is a real number, will be collinear with the points (1,1) and (2,2).
+
+For example, the points (3,3), (4,4), or (5,5) would be collinear with (1,1) and (2,2).

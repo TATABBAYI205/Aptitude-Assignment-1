@@ -1,0 +1,9 @@
+Two quadratic equations with the requested property as follows:
+
+Equation 1: x^2 - 6x + 9 = 0
+
+In this case, the roots of the equation are 3 and 3 (it's a perfect square trinomial). The sum of the roots is 6 and the product of the roots is 33=9. As requested, the sum of the roots is twice the product of the roots (6 = 23).
+
+Equation 2: x^2 - 4x + 4 = 0
+
+Here, the roots of the equation are 2 and 2 (again a perfect square trinomial). The sum of the roots is 4 and the product of the roots is 22=4. As requested, the sum of the roots is twice the product of the roots (4 = 22).

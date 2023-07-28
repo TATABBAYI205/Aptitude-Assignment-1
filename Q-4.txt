@@ -1,0 +1,15 @@
+Given the ratio (a^3 + b^3) : (a^3 - b^3) = 1 : 1, this implies that a^3 + b^3 = a^3 - b^3.
+
+If we solve this equation, we get:
+
+a^3 + b^3 = a^3 - b^3
+
+This simplifies to:
+
+2*b^3 = 0
+
+which gives:
+
+b = 0
+
+So for any real number 'a', 'b' has to be 0 in order for the ratio to be 1:1.

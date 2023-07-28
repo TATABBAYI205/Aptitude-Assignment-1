@@ -1,0 +1,5 @@
+To check whether the point (2,3) is a solution to the equation 2x+3y=12, you can substitute x=2 and y=3 into the equation.
+
+22 + 33 = 4 + 9 = 13
+
+So, (2,3) is not a solution to the equation 2x+3y=12 because when you substitute these values in, you get 13 instead of 12.
